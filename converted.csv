@@ -1,0 +1,311 @@
+,post_title,post_content,direccion,propiedad,agua,luz,cobertura,coordenada,tipoligia,estado_conservacion
+,Iglesia de Villamorón,IGLESIA DE SANTIAGO APÓSTOL DE VILLAMORÓN,"C. Villamoron, 35, 09128 Villamorón.","Archidiócesis de Burgos, es necesario contacto previo para el acceso.",sí.,sí.,sí.,42° 28′ 20″ N - 4° 01′30 ″ W.,iglesia.,medio.
+,Estación de Rabanera,ESTACIÓN DE RABANERA,"Calle Estacion, 14, 09660 Rabanera del Pinar.","gestión privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 53´ 18´´ N / 3º 11´ 51´´ W,edificación civil.,bueno.
+,Antiguo hospital de Oña,MONASTERIO DE SAN SALVADOR DE OÑA,"Pl. Convento, 5, 09530 Oña.","Diputación de Burgos, es necesario contacto previo para el acceso.",sí.,sí.,sí.,42º 44´ 03´´ N / 3º 24´ 49´´ W,edificación civil.,medio..
+,Mina de Olmos de Atapuerca,MINAS DE OLMOS DE ATAPUERCA,"Camino de Fuente Paldeja 09199, Olmos de Atapuerca.","gestión privada, es necesario contacto previo para el acceso.",no.,mediante generadores.,"sí en el exterior, no en las galerías.",42º 23´ 15´´ N / 3º 32´ 39´´ W,galerías subterráneas- cuevas.,bueno.
+,Vivienda de los 80,VIVIENDA DE LOS AÑOS 80,"Pl. Mayor, 18, 09660 Hontoria del Pinar.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 50´ 46´´ N / 3º 09´ 43´´ W,vivienda.,medio.
+,Balneario de Valdelateja,BALNEARIO DE VALDELATEJA,"C/ Santa Elena s/n, 09145, Valdelateja.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,42º 46´ 18´´ N / 3º 46´ 36´´ W,"edificio aislado con tres plantas y amplia zona exterior de jardines e incluso piscina. Actualmente, en desuso.",medio.
+,Coto de Valverde,COTO DE VALVERDE,"Valverde, 09410.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 43´ 11´´ N / 3º 24´ 60´´ W,"vivienda, ermita, granjas, corrales.",bueno.
+,Taller Textil Antonaga,TALLER TEXTIL ANTONAGA,"Pol. Ind. la Vega, C. Palencia, 5, 09240 Briviesca.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,42º 33´ 42´´ N / 3º 19´ 06´´ W,nave industrial.,medio.
+,Gasolinera de San Juan del Monte,GASOLINERA DE SAN JUAN DEL MONTE,San Juan del Monte,"privada, es necesario contacto previo para el acceso.",sí.,no.,sí.,41º 50´ 46´´ N / 3º 09´ 43´´ W,gasolinera,medio.
+,Necrópolis de Cuyacabras,NECRÓPOLIS DE CUYACABRAS,"Quintanar de la Sierra, 09670.","Bien de Interés Cultural, pero el acceso es libre y gratuito para cualquier visita.",no.,no.,no.,41º 59´ 29´´ N / 2º 59´ 47´´ W,cementerio medieval.,bueno.
+,Biblioteca de Quintanalara,BIBLIOTECA DE QUINTANALARA,"C. San Antonio, 10, 09647 Quintanalara.","municipal, acceso libre.",sí.,sí.,sí.,42º 10´ 29´´ N / 3º 32´ 00´´ W,"construcción rústica, antiguo potro.",bueno.
+,Quintanalara library,QUINTANALARA LIBRARY,"C. San Antonio, 10, 09647 Quintanalara.","municipal, open access.",yes.,yes.,yes.,42º 10´ 29´´ N / 3º 32´ 00´´ W,"Rustic construction, old colt.",good.
+,San Juan del Monte petrol station,SAN JUAN DEL MONTE GAS STATION,"BU925 Road, 15 km, San Juan del Monte.","Private, prior contact is required for access.",yes.,yes.,yes.,41º 50´ 46´´ N / 3º 09´ 43´´ W,gas station.,medium.
+,Antonaga textile workshop,"ANTONAGA, TEXTILE WORKSHOP","Pol. Ind. la Vega, C. Palencia, 5, 09240 Briviesca.","private, prior contact is required for access.",yes.,yes.,yes.,42º 33´ 42´´ N / 3º 19´ 06´´ W,industrial building.,medium.
+,Cuyacabras necropolis,NECRÓPOLIS DE CUYACABRAS,"Quintanar de la Sierra, 09670.",Bien de Interés Cultural. Free and open access.,no.,no.,no.,41º 59´ 29´´ N / 2º 59´ 47´´ W,medieval cemetery.,good.
+,Coto of Valverde,VALVERDE HOUNTING GROUND,"Valverde, 09410.","private, prior contact is required for access.",yes.,yes.,yes.,41º 43´ 11´´ N / 3º 24´ 60´´ W,"dwelling, hermitage, farms, corrals.",good.
+,Valdelateja spa,VALDELATEJA SPA,"C/ Santa Elena s/n, 09145, Valdelateja.","private, prior contact is required for access.",yes.,yes.,yes.,42º 46´ 18´´ N / 3º 46´ 36´´ W,isolated building with three floors and a large outdoor area with gardens and even a swimming pool. Currently in disuse.,medium.
+,1980s house,1980s HOUSE,"Pl. Mayor, 18, 09660 Hontoria del Pinar.","private, prior contact is required for access.",yes.,yes.,yes.,41º 50´ 46´´ N / 3º 09´ 43´´ W,housing.,good.
+,Former psychiatric hospital,SALVADOR DE OÑA MONASTERY,"Pl. Convento, 5, 09530 Oña.","Diputación de Burgos, prior contact is required for access.",yes.,yes.,yes.,42º 44´ 03´´ N / 3º 24´ 49´´ W,civil - religious building.,medium.
+,Villamorón church,SANTIAGO APOSTOL CHURCH OF VILLAMORÓN,"C. Villamoron, 35, 09128 Villamorón.","Archdiocese of Burgos, prior contact is required for access.",yes.,yes.,yes.,42° 28′ 20″ N - 4° 01′30 ″ W,church.,medium.
+,Esperanza mining,OLMOS DE ATAPUERCA MINE,"Camino de Fuente Paldeja 09199, Olmos de Atapuerca.","private, prior contact is required for access.",no.,using generators.,"yes outside, not in galleries.",42º 23´ 15´´ N / 3º 32´ 39´´ W,subway galleries - caves.,good.
+,Rabanera station,RABANERA STATION,"Calle Estación, 14, 09660 Rabanera del Pinar.","private, prior contact is required for access.",yes.,yes.,yes,41º 53´ 18´´ N / 3º 11´ 51´´ W,civil construction,good.
+,Escuela Superior de Arte y Diseño,ESCUELA DE ARTE Y DISEÑO,"C. Sahagún, 2, 09001 Burgos.","público, es necesario contacto previo para el acceso.",sí.,sí.,sí.,"42° 20' 29"" N/ 3° 43' 59"" W",edificación civil.,muy bueno.
+,Escuela Superior de Arte y Diseño,ESCUELA DE ARTE Y DISEÑO,"C. Sahagún, 2, 09001 Burgos.","public, prior contact is necessary for access.",yes.,yes.,yes.,"42° 20' 29"" N/ 3° 43' 59"" W",civil building.,very good.
+,Mesón de la Villa,MESÓN DE LA VILLA,"Carretera nacional N-1, km 165.","gestión privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 43´ 10´´ N – 3º 41´ 21´´W,edificación civil.,bueno.
+,Mesón de la Villa,MESÓN DE LA VILLA,"National Road N-1, km 165, Aranda de Duero.","private, prior contact is required for access.",yes.,yes.,yes.,41º 43´ 10´´ N – 3º 41´ 21´´W,civil construction.,good.
+,Posada Prado Rey,POSADA PRADO REY,"Carretera comarcal CL-619, km 63, La Ventosilla.","gestión privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 42´ 58´´ N – 3º 49´ 16´´W,edificación civil.,bueno.
+,Posada Prado Rey,Prado Rey Inn,"Regional Road, CL-619, km 63, La Ventosilla.","private, prior contact is required for access.",yes.,yes.,yes,41º 42´ 58´´ N – 3º 49´ 16´´W,Civil construction,good.
+,Peñaranda Castle,PEÑARANDA CASTLE,Peñaranda de Duero.,"municipal management, prior contact is required for access.",no.,yes.,yes,41º 41´ 25´´ N – 3º 28´ 53´´W,medieval.,good
+,Castillo de Peñaranda,CASTILLO DE PEÑARANDA,Peñaranda de Duero.,"gestión municipal, es necesario contacto previo para el acceso.",no.,sí.,sí.,41º 41´ 25´´ N – 3º 28´ 53´´W,fortaleza medieval.,bueno.
+,Refugio de Costalago,REFUGIO DE COSTALAGO,Hontoria del Pinar.,"al ubicarse en una zona protegida, es necesario contacto previo con el Servicio Territorial de Medio Ambiente.",no.,no.,sí.,41º 48´ 42´´ N – 3º 10´ 31´´W,espacio natural.,medio.
+,Costalago refuge,COSTALAGO SHELTER,Hontoria del Pinar..,protected area. Contact: Territorial Environmental Service.,no.,no.,no.,41º 48´ 42´´ N – 3º 10´ 31´´ W,natural space.,medium
+,Ermita de Quemada,ERMITA DE SAN ROQUE,"C. San Roque, 12, 09454 Quemada.","municipal, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 41 58´´ N – 3º 34´ 33´´W,construcción religiosa - civil.,bueno.
+,Quemada Hermitage,QUEMADA HERMITAGE,"C. San Roque, 12, 09454 Quemada.","municipal, prior contact is required for access.",yes.,yes.,yes.,41º 41 58´´ N – 3º 34´ 33´´W,religious - civil construction.,good.
+,Estrecho de las Calzadas,ESTRECHO DE LAS CALZADAS,Valle de Sedano.,"al estar en una zona protegida, es necesario contacto previo con el Servicio Territorial de Medio Ambiente. Afecta también a una carretera regional y a la Confederación Hidrográfica del Ebro.",no potable.,no.,sí.,42º 49´ 33´´ N – 3º 43´ 36´´W,espacio natural.,
+,Las Calzadas Strait,LAS CALZADAS STRAIT,Valle de Sedano.,protected area. Contact: Territorial Environmental Service / Ebro Hydrographic Confederation.,non-drinking.,no.,yes.,42º 49´ 33´´ N – 3º 43´ 36´´W,natural space.,
+,Restaurante en Huerta de Rey,RESTAURANTE EN HUERTA DE REY (en desuso),"Calle Caridad 11, 09430 Huerta de Rey.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 50´ 21´´ N – 3º 20´ 50´´ W,construcción civil.,bueno.
+,Huerta de Rey Restaurant,HUERTA DE REY RESTAURANT,"Caridad Street 11, 09430 Huerta de Rey.","private, prior contact is required for access.",yes.,yes.,yes.,41º 50´ 21´´ N – 3º 20´ 50´´ W,civil construction.,good.
+,Molino de la Aldea,MOLINO DE LA ALDEA DEL PINAR,"C/ Molino de los Arrenes 2. 09660, Aldea del Pinar.","propiedad privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 52´ 22´´ N – 3º 10´ 02´´ W,edificación civil.,medio.
+,Aldea del Pinar watermill,ALDEA DEL PINAR WATERMILL,"Street Molino de los Arrenes 2. 09660, Aldea del Pinar,","private property, prior permission is required.",yes.,yes.,yes.,41º 52´ 22´´ N – 3º 10´ 02´´ W,"civil construction,",medium.
+,Tienda de Ultramarinos Araceli,ULTRAMARINOS ARACELI,"Plaza Jesús Aparicio 8. 09600, Salas de los Infantes.","propiedad privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 01´ 23´´ N – 3º 17´ 12´´ W,comercio.,bueno.
+,Grocery store Araceli,GROCERY STORE ARACELI,"Square Jesús Aparicio 8, 09600. Salas de los Infantes.",private property.,yes.,yes.,yes.,41º 01´ 23´´ N – 3º 17´ 12´´ W,shop,good.
+,Minas de caolín,MINAS A CIELO ABIERTO DE CAOLÍN,Navas del Pinar.,"al estar en una zona protegida, es necesario contacto previo con el Servicio Territorial de Medio Ambiente.",no.,no.,no,41º 50´ 32´´ N – 3º 13´ 39´´W,espacio natural,medio.
+,kaolin sand mine,KAOLIN SAND MINE,Navas del Pinar.,contact: Territorial Environmental Service.,no.,no.,no.,41º 50´ 32´´ N – 3º 13´ 39´´W,natural space.,good.
+,Refugio del dólar,REFUGIO DEL DÓLAR,Neila.,"al estar en una zona protegida, es necesario contacto previo con el Servicio Territorial de Medio Ambiente y con el Ayuntamiento de Neila",no.,no.,no.,42º 02´ 45´´ N – 2º 56´ 42´´ W,espacio natural.,medio.
+,Dolar refuge,DOLAR SHELTER,Neila.,contact with the Territorial Environmental Service / the Town Council of Neila.,no.,no.,no.,42º 02´ 45´´ N – 2º 56´ 42´´ W,natural space.,medium.
+,Ermita de San Olav,ERMITA DE SAN OLAV,Covarrubias.,"propiedad privada, es necesario contacto previo para entrar. Los exteriores, se enmarcan en una zon protegida,por lo que es necesario contacto previo con el Servicio Territorial de Medio Ambiente.",sí.,no.,sí.,42º 03´ 37´´ N – 3º 29´ 50´´ W,"edificación religiosa, aunque desacralizada, lo que permite varios usos.",bueno.
+,San Olav Hermitage,SAN OLAV HERMITAGE,Covarrubias.,private property. The exteriors:  protected area (contact with Territorial Service of Environment),yes.,no.,yes.,42º 03´ 37´´ N – 3º 29´ 50´´ W,natural space,good
+,Cuevas de San Martín de Ubierna,CUEVAS DE SAN MARTÍN DE UBIERNA,San Martín de Ubierna.,"municipal, es necesario contacto previo para el acceso.",no.,no.,sí.,42º 30 30´´ N – 3º 42´ 18´´ W,cuevas.,medio.
+,San Martín de Ubierna Caves,SAN MARTÍN DE UBIERNA CAVES,San Martín de Ubierna.,"municipal, prior contact is required for access.",no.,no.,yes.,42º 30 30´´ N – 3º 42´ 18´´ W,caves,medium.
+,Merendero castellano en Covarrubias,MERENDERO CASTELLANO EN COVARRUBIAS,"C. del Divino Valles 5, Covarrubias.","propiedad privada, es preciso contacto previo.",sí.,sí.,sí.,42º 03´ 33´´ N – 3º 31´ 13´´W,edificación típica castellana.,bueno.
+,Castellan dining room in Covarrubias,CASTILIAN DINING ROOM IN COVARRUBIAS,"Divino Vallés 5 Street, Covarrubias.","private property, prior contact is required.",yes.,yes.,yes,42º 03´ 33´´ N – 3º 31´ 13´´ W,typical Castilian construction.,good.
+,Cabaña en Rabanera del Pinar,CABAÑA EN RABANERA DEL PINAR,Rabanera del Pinar.,"municipal, es preciso contacto previo para acceder.",no.,no.,sí.,41º 53´ 47´´ N – 3º 12´ 32´´ W,cabaña de monte.,bueno.
+,Cottage Rabanera del Pinar (Log cabin),COTTAGE IN RABANERA DEL PINAR,Rabanera del Pinar.,"municipal, prior contact is required for access.",no.,no.,yes,41º 53´ 47´´ N – 3º 12´ 32´´ W,mount cottage,good.
+,Plaza de toros de Huerta de Rey,PLAZA DE TOROS DE HUERTA DE REY,"C. Dondovilla, 47, 09430 Huerta de Rey.","municipal, es preciso contacto previo para acceder.",sí.,sí.,sí.,41º 50´ 26´´ N – 3º 20´ 56´´ W,"plaza de toros, aunque también empleada para conciertos y teatro.",bueno.
+,Bullring in Huerta de Rey,BULLRING IN HUERTA DE REY,"C. Dondovilla, 47, Huerta de Rey.","municipal, prior contact is required for access.",yes.,yes.,yes,41º 50´ 26´´ N – 3º 20´ 56´´ W,"bullring, concerts and theater.",good.
+,Bodegas de Moradillo de Roa,BODEGAS DE MORADILLO DE ROA,"Camino de las bodegas, Moradillo de Roa.","propiedad municipal y privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 33´ 12´´ N – 3º 47´ 35´´ W,bodegas.,"es frecuente encontrar bodegas en todos los pueblos de la Ribera del Duero, pero El Cotarro presenta un aspecto óptimo."
+,Moradillo de Roa wineries,MORADILLO DE ROA WINERIES,"Camino de las bodegas, Moradillo de Roa.","municipal and private property, prior contact is required for access.",yes.,yes.,yes.,41º 33´ 12´´ N – 3º 47´ 35´´ W,wineries.,optimal aspect.
+,Bodegas Portia,BODEGAS PORTIA,"Autovia A1, Salida 171, Gumiel de Izán.","Privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 46´ 05´´ N / 3º 41´ 40´´ W,"bodega, restaurante y edificio industrial.",bueno.
+,Portia wineries,PORTIA WINERIES,"Highway A1, 171 exit, Gumiel de Izán.","private, prior contact is required for access.",yes.,yes.,yes.,41º 46´ 05´´ N / 3º 41´ 40´´ W,"winerie, restaurant and industrial building.",good.
+,Monasterio del Espino,MONASTERIO DEL ESPINO,"Vieja Carretera Bilbao-Burgos, s/n. Santa Gadea del Cid.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,42º 43´ 34´´ N / 3º 02´ 51´´ W,"monasterio con uso civil, restaurante y hotel.",bueno.
+,Espino Monastery,ESPINO MONASTERY,"Old road Bilbao-Burgos, s/n. Santa Gadea del Cid.","private, prior contact is required for access.",yes.,yes.,yes.,42º 43´ 34´´ N / 3º 02´ 51´´ W,"monastery with civilian use, restaurant and hotel.",good.
+,Puente El Roque,PUENTE EL ROQUE,"margen izquierda del río Duero, Castrillo de la Vega.","municipal, es necesario contacto previo para el acceso. En caso de navegación en el río, es necesario también contactar con la Confederación Hidrográfica del Duero.",no potable.,no.,no.,41º 40´ 10´´ N / 3º 47´ 39´´ W,puente.,medio.
+,El Roque Bridge,EL ROQUE BRIDGE,"left bank of the Duero river, Castrillo de la Vega.","municipal, prior contact is required for access. To navigate: contact with Confederación Hidrográfica del Duero.",no.,no.,no.,41º 40´ 10´´ N / 3º 47´ 39´´ W,bridge.,medium.
+,Molino industrial en Aranda de Duero,MOLINO INDUSTRIAL EN ARANDA DE DUERO,"Carrtera comarcal C-619 km 75, Aranda de Duero.","privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 40´ 30´´ N / 3º 42´ 06´´ W,"edificio industrial, incluye molino en el río.",medio.
+,Industrial mill in Aranda de Duero,INDUSTRIAL MILL IN ARANDA DE DUERO,"C-619 Road km 75, Aranda de Duero.","private, prior contact is required for access.",yes.,yes.,yes.,41º 40´ 30´´ N / 3º 42´ 06´´ W,"industrial building, including mill on the river.",medium.
+,Castillo de Castrojeriz,CASTILLO DE CASTROJERIZ,"Cerro del Castillo s/n, Castrojeriz.","municipal, es necesario contacto previo para el acceso.",no.,no.,sí.,42º 17´ 30´´ N / 4º 08´ 10´´ W,castillo.,bueno.
+,Castrojeriz Castle,CASTROJERIZ CASTLE,"Cerro del Castillo s/n, Castrojeriz.","municipal, prior contact is required for access.",no.,no.,no.,42º 17´ 30´´ N / 4º 08´ 10´´ W,castle,good.
+,Bodegas Nabal,BODEGAS NABAL,Gumiel de Izán.,privada.,si.,si.,si.,41º 45´ 07´´ N. 3º 40´ 51´´ W,bodegas.,obra nueva.
+,Bodegas Nabal,BODEGAS NABAL,Gumiel de Izán.,private.,yes.,yes,yes.,41º 45´ 07´´ N. 3º 40´ 51´´ W,wineries.,excellent.
+,Biblioteca de Aranda de Duero,BIBLIOTECA DE ARANDA DE DUERO,,,,,,,,
+,Archives of Aranda de Duero,ARCHIVES OF ARANDA DE DUERO,,,,,,,,
+,Teatro Cine Aranda,TEATRO CINE ARANDA,,,,,,,,
+,Cinema Theatre of Aranda de Duero,CINEMA THEATRE OF ARANDA DE DUERO,,,,,,,,
+,Harinera de Roa,HARINERA DE ROA DE DUERO,,,,,,,,
+,Old floor mill of Roa,OLD FLOOR MILL OF ROA DE DUERO,,,,,,,,
+,Torreón de Fernán González,TORREÓN DE FERNÁN GONZÁLEZ,,"gestión privada, es necesario contacto previo para el acceso.",,,,,,
+,Fernán González Tower,FERNÁN GONZÁLEZ TOWER,,,,,,,,
+,Torreón de Haza,TORREÓN DE HAZA,,,,,,,,
+,Haza Tower,FERNÁN GONZÁLEZ TOWER,,,,,,,,
+,Granero de San Francisco,GRANERO DE SAN FRANCISCO,,,,,,,,
+,San Francisco Barn,SAN FRANCISCO BARN,,,,,,,,
+,Gasolinera de Quintanapalla,GASOLINERA DE QUINTANAPALLA,,,,,,,,
+,Quintanapalla Gas Station,QUINTANAPALLA GAS STATION,,,,,,,,
+,Droguería de Huerta de Rey,DROGUERÍA DE HUERTA DE REY,,,,,,,,
+,Store in Huerta de Rey,STORE IN HUERTA DE REY,,,,,,,,
+,Convento de San Antón,CONVENTO DE SAN ANTÓN,,,,,,,,
+,San Antón Convent,SAN ANTÓN CONVENT,,,,,,,,
+,Colegio de Peñaranda,COLEGIO DE PEÑARANDA,,,,,,,,
+,Peñaranda School,PEÑARANDA SCHOOL,,,,,,,,
+,Teatro Principal,TEATRO PRINCIPAL,"paseo del Espolón s/n, 09003 Burgos","pública, es necesario contacto previo para el acceso.",sí.,sí.,sí.,42º 20´ 18´´ N – 3º 41´ 59´´ W,arquitectura histórica.,muy bueno.
+,Principal Theatre,PRINCIPAL THEATRE,,,,,,,,
+,Sala Andén 56,SALA ANDÉN 56,,,,,,,,
+,Sala Andén 56,SALA ANDÉN 56,,,,,,,,
+,Bodega subterránea Lagar,BODEGA SUBTERRÁNEA LAGAR,,,,,,,,
+,Subway Winery El Lagar,SUBWAY WINERY EL LAGAR,,,,,,,,
+,Monasterio de San Juan,MONASTERIO DE SAN JUAN,,,,,,,,
+,San Juan Monastery,SAN JUAN MONASTERY,,,,,,,,
+,Monasterio de San Agustín,MONASTERIO DE SAN AGUSTÍN,,,,,,,,
+,San Agustín Monastery,SAN AGUSTÍN MONASTERY,,,,,,,,
+,Hospital Militar,HOSPITAL MILITAR,,,,,,,,
+,Military Hospital,MILITARY HOSPITAL,,,,,,,,
+,Forum Evolución,FORUM EVOLUCIÓN,,,,,,,,
+,Forum Evolución,FORUM EVOLUCIÓN,,,,,,,,
+,Tonelería Duero,TONELERÍA DUERO,"Avda. Portugal 104, Aranda de Duero.","gestión privada, es necesario contacto previo para el acceso.",sí.,sí.,sí.,41º 39´ 56´´ N – 3º 44´ 05´´ W,nave industrial.,bueno.
+,Cooperage Duero,COOPERAGE DUERO,,,,,,,,
+,Spa Hotel Lagar,SPA  HOTEL LAGAR,,,,,,,,
+,Spa Hotel Lagar,SPA HOTEL LAGAR,,,,,,,,
+,Monasterio San Pedro de Arlanza,MONASTERIO SAN PEDRO DE ARLANZA,,,,,,,,
+,San Pedro de Arlanza Monastery,SAN PEDRO DE ARLANZA MONASTERY,,,,,,,,
+,Minas de Puras de Villafranca,MINAS DE PURAS DE VILLAFRANCA,,,,,,,,
+,Puras de Villafranca Mine,PURAS DE VILLAFRANCA MINE,,,,,,,,
+,Museo Salaguti,MUSEO SALAGUTI,,,,,,,,
+,Salaguti Museum,SALAGUTI MUSEUM,,,,,,,,
+,Mirador de Cortiguera,MIRADOR DE CORTIGUERA,,,,,,,,
+,Cortiguera Viewpoint,CORTIGUERA VIEWPOINT,,,,,,,,
+,Metrópoli Verde,METRÓPOLI VERDE,,,,,,,,
+,Cortiguera Viewpoint,GREEN METROPOLY,,,,,,,,
+,Gasolinera Bugedo,GASOLINERA DE BUGEDO,,,,,,,,
+,Bugedo Gas Station,BUGEDO GAS STATION,,,,,,,,
+,Estación de tren de Miranda de Ebro,ESTACIÓN DE TREN DE MIRANDA DE EBRO,,,,,,,,
+,Miranda de Ebro Railway Station,MIRANDA DE EBRO RAILWAY STATION,,,,,,,,
+,Estación de tren Rosa Manzano Burgos,ESTACIÓN DE TREN ROSA MANZANO-BURGOS,,,,,,,,
+,Rosa Manzano Railway Station,ROSA MANZANO RAILWAY STATION,,,,,,,,
+,Teatro de Clunia,TEATRO DE CLUNIA,,,,,,,,
+,Clunia Teather,CLUNIA TEATHER,,,,,,,,
+,Circuito de Kotarr,CIRCUITO DE KOTARR,,,,,,,,
+,Kotarr Circuit,KOTARR CIRCUIT,,,,,,,,
+,Campo de Golf de Lerma,CLUB DE GOLF DE LERMA,,,,,,,,
+,Golf Club Lerma,GOLF CLUB LERMA,,,,,,,,
+,Casa del Cordón,CASA DEL CORDÓN,,,,,,,,
+,Casa del Cordón,CASA DEL CORDÓN,,,,,,,,
+,Bar El Patillas,BAR EL PATILLAS,,,,,,,,
+,Bar El Patillas,BAR EL PATILLAS,,,,,,,,
+,Facultad de empresariales,FACULTAD DE EMPRESARIALES Y BIBLIOTECA GENERAL,,,,,,,,
+,University,UNIVERSITY,,,,,,,,
+,Castillo de Burgos,CASTILLO DE BURGOS,,,,,,,,
+,Burgos Castle,BURGOS CASTLE,,,,,,,,
+,Museo de la Evolución Humana,MUSEO DE LA EVOLUCIÓN HUMANA,,,,,,42º 20´ 26´´ N   3º 41´ 50´´ W,,
+,Museo de la Evolución Humana,MUSEO DE LA EVOLUCIÓN HUMANA,,,,,,,,
+,Hotel Silken Gran Teatro,HOTEL SILKEN GRAN TEATRO,,,,,,,,
+,Silken Gran Teatro Hotel,SILKEN GRAN TEATRO HOTEL,,,,,,,,
+,Casa Secuoya,CASA SECUOYA,,,,,,,,
+,Secuoya House,SECUOYA HOUSE,,,,,,,,
+,Aeropuerto de Burgos,AEROPUERTO DE BURGOS,,,,,,,,
+,Burgos airport,BURGOS AIRPORT,,,,,,,,
+,Centro de Arte Caja de Burgos CAB,CENTRO DE ARTE CAJA DE BURGOS CAB,C/saldaña s/n. Burgos,Fundación Caja de Burgos,sí.,sí.,sí.,,espacio expositivo,muy bueno.
+,Centro de Arte Caja de Burgos CAB,CENTRO DE ARTE CAJA DE BURGOS CAB,C/saldaña s/n. Burgos,Fundación Caja de Burgos.,yes.,yes.,yes.,,exhibition space,very good.
+,Puentedey,PUENTEDEY,,público.,sí.,sí.,sí.,"42º 58' 32,22"" N 3º 41' 06.97"" O","Pueblo medieval, puente natural.",muy bueno.
+,Puentedey,PUENTEDEY,,public.,yes.,yes.,yes.,"42º 58' 32,22"" N 3º 41' 06.97"" O","medieval village, natural bridge.",very good.
+,Cueva ermita de San Bernabé- Monumento Natural de Ojo Guareña-Cueva Palomera,CUEVA ERMITA DE SAN BERNABÉ- MONUMENTO NATURAL DE OJO GUAREÑA- CUEVA PALOMERA,,público.,sí.,sí.,sí.,43º 02′ 00” N. 3º 39′ 50” W.,"Entorno natural, ermita, cuevas.",muy bueno.
+,San Bernabé Hermitage Cave - Ojo Guareña-Palomera Cave Natural Monument,SAN BERNABÉ HERMITAGE CAVE - OJO GUAREÑA-PALOMERA CAVE NATURAL MONUMENT,,public.,yes.,yes.,yes.,43º 02′ 00” N. 3º 39′ 50” W.,"natural surroundings, hermitage, caves.",very good.
+,Casa BlaBlao – Linares (Merindad de Sotoscueva),CASA BLA BLAO – LINARES (MERINDAD DE SOTOSCUEVA),"Calle San Juan, 7. Linares-Merindad de Sotoscueva.",privado.,sí.,sí.,sí.,43°00′11″N 3°38′05″O.,"casa con encanto, espacio multidisciplinar.",muy bueno.
+,BlaBlao House - Linares (Merindad de Sotoscueva).,BLA BLAO HOUSE - LINARES (MERINDAD DE SOTOSCUEVA).,"Calle San Juan, 7. Linares-Merindad de Sotoscueva.",private.,yes.,yes.,yes.,43°00′11″N 3°38′05″O.,"charming house, multidisciplinary space.",very good.
+,Linares (Merindad de Sotoscueva),LINARES (MERINDAD DE SOTOSCUEVA),,público.,sí.,sí.,sí.,43°00′11″N 3°38′05″O.,"Pueblo con encanto, entorno natural.",bueno.
+,Linares (Merindad de Sotoscueva).,LINARES (MERINDAD DE SOTOSCUEVA),,public.,yes.,yes.,yes.,43°00′11″N 3°38′05″O.,"charming village, natural environment.",good.
+,Burgos Pasiego valleys-Pasiego huts,BURGOS PASIEGO VALLEYS-PASIEGO HUTS,,public and private.,yes.,yes.,yes.,"43° 7' 38.05"" N, 3° 36' 41.24"" W",,good.
+,Valles pasiegos burgaleses-cabañas pasiegas,VALLES PASIEGOS BURGALESES-CABÑAS PASIEGAS,,pública y privada.,sí.,sí.,sí.,"43° 7' 38.05"" N, 3° 36' 41.24"" W.","valle, cascadas, cabañas de piedra y pizarra.",bueno.
+,Guarguero Waterfall - Trueba Valley,GUARGUERO WATERFALL - TRUEBA VALLEY,,public.,no.,no.,yes.,"43º 7´ 0.82” N , 3º 40´ 29.50” W",,very good.
+,Cascada Guarguero- Valle de Trueba,CASCADA GUARGUERO- VALLE DE TRUEBA,,pública.,no.,no.,sí.,"43º 7´ 0.82” N , 3º 40´ 29.50” W.","cascada, valle, cabañas de piedra y pizarra.",muy bueno.
+,Casa Guareña,CASA GUAREÑA,"C/ Villabáscones, s/n. Villabáscones de Sotoscueva.",privado.,sí.,sí.,sí.,"43º 03' 5.16'' N , 3º 40' 16.7'' W.","casa rural con encanto, jardín con vistas panorámicas.",muy bueno.
+,Casa Guareña,CASA GUAREÑA,"C/ Villabáscones, s/n. Villabáscones de Sotoscueva.",private.,yes.,yes.,yes.,"43º 03' 5.16'' N , 3º 40' 16.7'' W.","charming rural house, garden with panoramic views.",very good.
+,Studio workshop artist Ana Condado,STUDIO-WORKSHOP ARTIST ANA CONDADO,Plaza Mayor de Villarcayo n.º 15. Villarcayo.,private.,yes.,yes.,yes.,"42° 56' 31.99""N, 3° 33' 56.41""W.","contemporary artist studio, art gallery.",good.
+,Estudio taller artista Ana Condado,ESTUDIO TALLER ARTISTA ANA CONDADO,"Plaza Mayor de Villarcayo, n.º 15. Villarcayo.",privado.,sí.,sí.,sí.,"42° 56' 31.99""N, 3° 33' 56.41""W.","estudio artista contemporánea, galería de arte.",bueno.
+,Casa-taller del artista Erick Marlop,CASA-TALLER DEL ARTISTA ERICK MARLOP,"Barrio La Iglesia, 97. Cornejo-Merindad de Sotoscueva.",privado.,sí.,sí.,sí.,"43º 2´34.8” N, 3º 38´ 49.65” W.","estudio artista contemporáneo, taller.",muy bueno.
+,House-workshop of artist Erick Marlop,HOUSE-WORKSHOP OF ARTIST ERICK MARLOP,"Barrio La Iglesia, 97. Cornejo-Merindad de Sotoscueva.",private.,yes.,yes.,yes.,"43º 2´34.8” N, 3º 38´ 49.65” W.","contemporary artist studio, workshop.",very good.
+,Eremitorios de Alfoz de Bricia -  Argés,EREMITORIOS DE ALFOZ DE BRICIA - ARGÉS,,público.,no.,no.,sí.,"42º 53´ 44,94” N, 3º 50´ 33,13” W.","emeritorios, cuevas.",bueno.
+,Hermitage of Alfoz de Bricia - Argés,HERMITAGE OF ALFOZ DE BRICIA - ARGÉS,,public.,no.,no.,yes.,"42º 53´ 44,94” N, 3º 50´ 33,13” W.","emeritoriums, caves.",good.
+,Salazar,VILLA DE SALAZAR,,público.,sí.,sí.,sí.,"42º 53´ 44,94” N, 3º 50´ 33,13” W.","pueblo con encanto, casonas y palacios.",muy bueno.
+,Salazar,SALAZAR,,public.,yes.,yes.,yes.,"42º 53´ 44,94” N, 3º 50´ 33,13” W.","charming village, mansions and palaces.",very good.
+,Crespos - Manzanedo Valley - Natural Park of the Upper Ebro and Rudrón Gorges,CRESPOS - MANZANEDO VALLEY - HOCES DEL ALTO EBRO AND RUDRÓN NATURAL PARK,,public.,yes.,yes.,yes.,"42º 53´ 48.92” N, 3º 47´ 0.71” W.",charming villages.,very good.
+,Crespos – Valle de Manzanedo-Parque Natural de las Hoces del Alto Ebro y Rudrón,CRESPOS – VALLE DE MANZANEDO-PARQUE NATURAL DE LAS HOCES DEL ALTO EBRO Y RUDRÓN,,público.,sí.,sí.,sí.,"42º 53´ 48.92” N, 3º 47´ 0.71” W..",pueblos con encanto.,muy bueno.
+,Escuela Politécnica Superior,ESCUELA POLITÉCNICA SUPERIOR,"Avenida Cantabria, s/n. Burgos",pública.,sí.,sí.,sí.,"2° 21' 3.60""N 3° 41' 20.40"" O",enseñanza,bueno.
+,Escuela Politécnica Superior,ESCUELA POLITÉCNICA SUPERIOR,"Avenida Cantabria, s/n. Burgos.",public.,yes.,yes.,yes.,"2° 21' 3.60""N 3° 41' 20.40"" O",education,good.
+,Complejo Deportivo El Plantío,COMPLEJO DEPORTIVO EL PLANTIO,"calle El Plantío s/n, Burgos.",pública (en algunos equipamientos la gestión es privada o semiprivada),sí.,sí.,sí.,,"equipamientos deportivos, ocio y cultura",bueno.
+,El Plantío sport complex,EL PLANTIO SPORT COMPLEX,"calle El Plantío s/n, Burgos.",public (in some facilities the management is private or semi-private).,yes.,yes.,yes.,,"sports, leisure and cultural facilities.",good.
+,Urbanización fantasma,URBANIZACIÓN FANTASMA,"Antigua carretera N620A, km 12, Buniel.",privada.,no.,no.,sí.,42º 18´49´´ N /  3º 49´ 04´´ W,construcción civil.,"malo. Hay zonas realmente impracticables, sería preciso una inspección previa."
+,Phamtom housing estate,PHANTOM HOUSING ESTATE,"Antigua carretera N620A, km 12, Buniel.",private.,no.,no.,yes.,42º 18´49´´ N / 3º 49´ 04´´ W,civil construction.,"bad. Some areas are really impracticable, a prior inspection would be necessary."
+,Facultad de teología,FACULTAD DE TEOLOGÍA,"C. Eduardo Martínez del Campo, 10. Burgos",privada.,sí.,sí.,sí.,,"arquitectura histórica, enseñanza",bueno.
+,Faculty of theology,FACULTY OF THEOLOGY,"C. Eduardo Martínez del Campo, 10. Burgos",private.,yes.,yes.,yes.,,"historic architecture, education",good.
+,Hospital del Rey,HOSPITAL DEL REY,"Hospital del Rey, s/n. Burgos","pública, la iglesia depende de la Diócesis de Burgos.",sí.,sí.,sí.,,"arquitectura histórica, hospital, enseñanza",bueno.
+,Hospital del Rey,HOSPITAL DEL REY,"Hospital del Rey, s/n. Burgos","public, the church depends on the Diocese of Burgos.",yes.,yes.,yes.,,"historical architecture, hospital, education.",ggood
+,Parque de Fuentes Blancas,PARQUE DE FUENTES BLANCAS,"BU-800, 09193 Burgos",pública.,en algunos puntos.,en algunos puntos.,sí.,,"parque, naturaleza, bosque, áreas recreativas",muy bueno.
+,Fuentes Blancas park,FUENTES BLANCAS PARK,"BU-800, 09193 Burgos",public.,at some points.,at some points.,yes.,,"park, nature, forest, recreational areas.",very good
+,Plaza de las Tahonas,PLAZA DE LAS TAHONAS,"calle Corralón de las Tahonas, Burgos.",pública.,sí.,sí.,sí.,,plaza.,bueno.
+,Tahonas square,TAHONAS SQUARE,"calle Corralón de las Tahonas, Burgos.",public.,yes.,yes.,yes.,,square.,good
+,Puente Bessón,PUENTE BESSÓN,"paseo de la Audiencia, s/n. Burgos.",pública.,no.,sí.,sí.,,"puente, arquitectura histórica.",bueno.
+,Bessón bridge,BESSÓN BRIDGE,"paseo de la Audiencia, s/n. Burgos.",public.,no.,yes.,yes.,,"bridge, historic architecture.",good.
+,Residencia universitaria San Agustín,RESIDENCIA UNIVERSITARIA SAN AGUSTÍN,"Calle Madrid, 22. Burgos",pública (gestión privada).,sí.,sí.,sí.,,"arquitectura histórica, equipamientos.",muy bueno.
+,San Agustín university residence,SAN AGUSTIN UNIVERSITY RESIDENCE,"Calle Madrid, 22. Burgos",public (private management).,yes.,yes.,yes.,,"historic architecture, facilities",good
+,Antiguas escuelas de Castrillo Solarana,ANTIGUAS ESCUELAS DE CASTRILLO SOLARANA,"Calle Alta, 23. Castrillo-Solarana",pública.,sí.,sí.,sí.,,"enseñanza, equipamientos",muy bueno.
+,Antiguas escuelas (old schools),ANTIGUAS ESCUELAS (OLD SCHOOLS),"Calle Alta, 23. Castrillo-Solarana",public.,yes.,yes.,yes.,,"education, equipment",very good.
+,Bodega subterránea,BODEGA SUBTERRÁNEA DEL RESTAURANTE BODEGA SAN BLAS,"Plaza de San Blas 5, Lerma",privada.,sí.,sí.,"en la superficie, sí.",42º01´31´´ N / 3º 45´ 20´´ W,bodega subterránea.,bueno.
+,Underground cellar,UNDERGROUND CELLAR OF THE BODEGA SAN BLAS RESTAURANT,"Plaza de San Blas 5, Lerma.",private.,yes.,yes.,"on the surface, yes.",42º01'31'' N / 3º 45' 20'' W,underground cellar.,good.
+,Convento deshabitado carmelitas descalzas,MONASTERIO DESHABITADO DE LAS CARMELITAS DESCALZAS,"Calle del Carmen, 2. Lerma",privada.,sí.,sí.,sí.,42º 01´ 33´´ N / 3º 45´ 37´´ W,monasterio,muy bueno.
+,Uninhabited monastery of the Discalced Carmelite nuns,UNINHABITED MONASTERY OF THE DISCALCED CARMELITE NUNS,"Calle del Carmen, 2. Lerma.",private.,yes.,yes.,yes.,42º 01' 33'' N / 3º 45' 37'' W,monastery,good.
+,Acueducto de Abánades,ACUEDUCTO DE ABÁNADES,"Carretera N-120, km 68. Melgar de Fernamental.",pública.,sí.,no.,sí.,42º 01´ 33´´ N / 3º 45´ 37´´ W,obra hidráulica,muy bueno.
+,Abánades aqueduct,ABÁNADES AQUEDUCT,"Carretera N-120, km 68. Melgar de Fernamental.",public.,yes.,no.,yes.,42º 01' 33'' N / 3º 45' 37'' W,hydraulic work,very good.
+,Parque fluvial de Pampliega,PARQUE FLUVIAL DE PAMPLIEGA,"Carretera BU-101, km 17. Pampliega.",pública.,sí.,sí.,sí.,42º 12´ 20´´ N / 3º 59´ 25´´ W,"parque, puente, arquitectura histórica, ríos",muy bueno.
+,Pampliega river park,PAMPLIEGA RIVER PARK,"Carretera BU-101, km 17. Pampliega.",public.,yes.,yes.,yes.,42º 12' 20'' N / 3º 59' 25'' W,"park, bridge, historical architecture, rivers.",very good.
+,Estación de autobuses de Burgos,ESTACIÓN DE AUTOBUSES DE BURGOS,"calle Miranda, 4. Burgos",pública.,sí.,sí.,sí.,,estación de autobuses.,muy bueno.
+,Burgos bus station,BURGOS BUS STATION,"Calle Miranda, 4. Burgos",public.,yes.,yes.,yes.,,bus station.,very good.
+,Valle de las Navas - Arizona burgalesa,VALLE DE LAS NAVAS- ARIZONA BURGALESA,"Carretera BU-V-5003, km 2",pública.,no.,no.,sí.,42º 30´ 12´´ N - 3º 33´ 01´´ W,naturaleza,muy bueno
+,Valley  of las Navas - Arizona burgalesa,VALLEY OF LAS NAVAS- ARIZONA BURGALESA,"BU-V-5003 Road, km 2",public.,no.,no.,yes.,42º 30´ 12´´ N – 3º 33´ 01´´ W,nature.,very good.
+,Casa Avilés Osborne,CASA AVILÉS OSBORNE,"calle Santo Domingo, 2. Santo Domingo de Silos.",privada.,sí.,sí.,sí.,,vivienda,muy bueno.
+,Avilés Osborne house,AVILÉS OSBORNE HOUSE,"calle Santo Domingo, 2. Santo Domingo de Silos.",private.,yes.,yes.,yes.,,housing.,very good.
+,Residencia Miltar Dos de Mayo,RESIDENCIA MILITAR DOS DE MAYO,"C/ Infantería 1, Burgos",militar,sí.,sí.,sí.,"42º 20´ 51´´ N, 3º 40´40´´ W",edificio institucional,muy bueno.
+,Dos de Mayo Military Residence,DOS DE MAYO MILITARY RESIDENCE,Infantería street 1.,military.,yes.,yes.,yes.,,institutional boulding.,very good.
+,Casa Estela,CASA ESTELA,"Paseo de los Pisones 41, Burgos",privado,sí.,sí.,sí.,"42º 19´51´´ N, 3º 41´ 53´´ W",edificio institucional,muy bueno.
+,Casa Estela,CASA ESTELA,"Paseo de los Pisones 41, Burgos",private,yes.,yes.,yes.,"42º 19´51´´ N, 3º 41´ 53´´ W",institutional boulding.,very good.
+,Fábrica de Postformados Salas,POSTFORMADOS SALAS,"Antigua Ctra. N-234, km 437",privado,sí.,sí.,sí.,"42º 0´ 40´´ N, 30º 17´ 34´´ W",edificio industrial,"presenta zonas muy afectadas, sería preciso una inspección previa"
+,Postformados Salas Factory,POSTFORMADOS SALAS FACTORY,"Old road N-234, km 437",private,yes.,yes.,yes.,"42º 0´ 40´´ N, 30º 17´ 34´´ W",industrial boulding.,"there are areas badly affected, a previous inspection would be required."
+,Palacio de Castilfalé,PALACIO DE CASTILFALÉ,"C/ Fernán González 60, Burgos",municipal,sí.,sí.,sí.,"42º 20´ 28´´ N, 3º 42´ 18´´ W",edificio histórico / institucional,muy bueno.
+,Castilfalé Palace,CASTILFALÉ PALACE,"C/ Fernán González 60, Burgos",municipality.,yes.,yes.,yes.,"42º 20´ 28´´ N, 3º 42´ 18´´ W",historicial - institutional boulding.,very good.
+,Campos de lavanda,CAMPOS DE LAVANDA,"Carretera BU-910, km 25",privada,no.,no,sí.,"41º 49´ 56´´ N, 3º 28´ 46´´ W",campo de cultivo,muy bueno.
+,Lavender field,LAVENDER FIELD,"Road BU-910, km 25",private.,no.,no.,yes.,"41º 49´ 56´´ N, 3º 28´ 46´´ W",crop field,very good.
+,Old railway station,OLD RAILWAY STATION,"Dr. José Luis Santamaría street, Burgos",municipality,yes.,yes.,yes.,"42º 20´ 04´´ N, 3º 42´28´´ W",institutional boulding.,very good.
+,Antigua estación de tren,ANTIGUA ESTACIÓN DE TREN,C/ Dr. José Luis Santamaría,municipal,sí.,sí.,sí.,"42º 20´ 04´´ N, 3º 42´28´´ W",edificio institucional,muy bueno.
+,Tobera waterfalls,TOBERA WATERFALLS,"Road BU-504, km 6","municipal. Although the riverbanks are freely accessible, to reach the waterfalls you have to go through the streets of the town.",yes.,yes.,yes.,"42º 44´ 59´´ N, 3º 18´ 22´´ W",waterfall and rivers.,very good
+,Cascadas de Tobera,CASCADAS DE TOBERA,"Carretera BU-504, km 6","municipal. Si bien las riberas de los ríos son espacios de libre acceso, para llegar a las cascadas hay que acceder por las calles del pueblo",sí.,sí.,sí.,"42º 44´ 59´´ N, 3º 18´ 22´´ W",ríos y cascadas,muy bueno
+,Diputación de Burgos Palace,DIPUTACIÓN DE BURGOS PALACE,Paseo del Espolón 38,Burgos Diputacion,yes.,yes.,yes.,"42º 20´ 28´´ N, 3º 42´ 00´´ W",institutional boulding.,very good.
+,Palacio de la Diputación de Burgos,PALACIO DE LA DIPUTACIÓN DE BURGOS,"Paseo del Espolón nº 34, Burgos",Diputación de Burgos,sí.,sí.,sí.,"42º 20´ 28´´ N, 3º 42´ 00´´ W",edificio institucional,muy bueno.
+,Avellaneda Palace,AVELLANEDA PALACE,"Plaza Mayor, Peñaranda de Duero",private,yes.,yes.,yes.,"41º 41´ 17´´ N, 3º 28´ 50´´ W",historic boulding.,very good
+,Palacio de Avellaneda,PALACIO DE AVELLANEDA,Plaza Mayor de Peñaranda de Duero,privado,sí.,sí.,sí.,"41º 41´ 17´´ N, 3º 28´ 50´´ W",edificio histórico,muy bueno
+,Puente medieval de Pesquera de Ebro,PUENTE MEDIEVAL DE PESQUERA DE EBRO,"Carretera BU-V-5143, km 8","Pesquera de Ebro es conjunto histórico, precisa por tanto de permisos especiales.",sí.,sí.,sí.,"42º 48´ 07´´ N, 3º 43´ 20´´ W",edificio histórico.,muy bueno.
+,Medieval bridge of Pesquera de Ebro,MEDIEVAL BRIDGE OF PESQUERA DE EBRO,"Road BU-V-5143, km 8",Pesquera de Ebro is a historical site and therefore requires special permits.,yes.,yes.,yes.,"42º 48´ 07´´ N, 3º 43´ 20´´ W",historical boulding.,very good.
+,Puente de Cidad de Ebro,PUENTE DE CIDAD DE EBRO,"Carretera BU-V-5743, km 13",gestión pública,sí.,sí.,sí.,"42º 53´ 29´´ N, 3º 42´ 55´´ W",puente,bueno.
+,Bridge of Cidad de Ebro,BRIDGE OF CIDAD DE EBRO,"Road BU-V-5743, km 13",public management,yes.,yes.,yes.,"42º 53´ 29´´ N, 3º 42´ 55´´ W",bridge,very good.
+,Hotel Casa Barría,HOTEL CASA BaRRÍA,"C/ Gonazlo Arenas 1, Pradoluengo",gestión privada,sí.,sí.,sí.,"42º 19´ 30´´ N, 3º 12´ 04´´ W",hotel rural,muy bueno.
+,Casa Barría Hotel,CASA BARRÍA HOTEL,"Gonzalo Arenas 1 street, Pradoluengo",private management,yes.,yes.,yes.,"42º 19´ 30´´ N, 3º 12´ 04´´ W",country hotel,very good.
+,Glacial lakes of Neila,GLACIAL LAKES OF NEILA,,Public management,yes.,no.,yes.,"42º 02´ 45´´ N, 3º 02´ 29´´ W",lagoon,very good.
+,Lagunas glaciares de Neila,LAGUNAS GLACIARES DE NEILA,,Gestión pública,sí.,no..,sí.,"42º 02´ 45´´ N, 3º 02´ 29´´ W",lagunas,muy bueno.
+,Museo textil de Pradoluengo,MUSEO TEXTIL DE PRADOLUENGO,"C/ Rodríguez Valcárcel 14A, Pradoluengo",gestión privada - municipal,sí.,sí.,sí.,"42º 19´ 19´´ N, 3º 11´ 41´´ W",industria,muy bueno.
+,Pradoluengo Textile Museum,PRADOLUENGO TEXTIL MUSEUM,"Rodríguez Valcárcel 14A street, Pradoluengo",private - municipality management,yes.,yes.,yes.,"42º 19´ 19´´ N, 3º 11´ 41´´ W",industry,very good.
+,Old fulling mill in Pradoluengo,OLD FULLING MILL IN PRADOLUENGO,"Adolfo Espinosa 75 street, Pradoluengo",private,yes,yes,yes,"42º 19´ 21´´ N, 3º 11´ 53´´ W",industry,"medium level, areas that would require a prior review"
+,Antiguo batán en Pradoluengo,ANTIGUO BATÁN EN PRADOLUENGO,"C/ Adolfo Espinosa 75, Pradoluengo",gestión privada,sí.,sí.,sí.,"42º 19´ 21´´ N, 3º 11´ 53´´ W",industria,"medio, hay zonas que necesitarían una revisión previa"
+,Monasterio de Santa María de Rioseco,MONASTERIO DE SANTA MARÍA DE RIOSECO,"Ctra. BU-V-5741, km 3, Valle de Manzanedo",gestión pública,sí.,no.,sí.,"42º 53´ 38´´ N, 3º 37´ 56´´ W",religioso,"medio. Hay zonas impracticables, otras en buen estado."
+,Monastery of Santa María de Rioseco,PRADOLUENGO TEXTIL MUSEUM,"Road BU-V-5741, km 3, Valle de Manzanedo",public management,yes.,no.,yes.,"42º 53´ 38´´ N, 3º 37´ 56´´ W",religious,"medium. Some areas are impracticable, others in good condition."
+,Hotel Norte y Londres,,"Plaza de Alonso Martínez 10, Burgos",gestión privada,sí.,sí.,sí.,"42º 20´ 37´´ N, 3º 42´ 00´´ W",hotel,muy bueno
+,Hotel Norte y Londres,HOTEL NORTE Y LONDRES,"Alonso Martinez Square 10, Burgos",private management,yes.,yes,yes.,"42º 20´ 37´´ N, 3º 42´ 00´´ W",hotel,very good.
+,Aeropuerto de Burgos,AEROPUERTO DE BURGOS,"Ctra. de Logroño, 107, Burgos",gestión pública,sí.,sí.,sí.,"42º 21´ 17´´ N, 3º 37´ 22´´ W",aeropuerto,muy bueno
+,Aeropuerto de Burgos,BURGOS AIRPORT,"Logroño Road 107, Burgos",public management,yes.,yes,yes.,"42º 21´ 17´´ N, 3º 37´ 22´´ W",airport,very good.
+,Universidad Isabel I,UNIVERSIDAD ISABEL I,"C/ Fernán González, 72, Burgos",gestión privada,sí.,sí.,sí.,"42º 20´ 30´´ N, 3º 42´ 36´´ W",edificio institucional,muy bueno.
+,Isabel I University,ISABEL I UNIVERSITY,"Fernán Gonzale 72 street, Burgos",private management,yes.,yes.,yes.,"42º 20´ 30´´ N, 3º 42´ 36´´ W",institutional building,very good.
+,"Universidad Isabel I, zona sin rehabilitar (Antiguo Seminario de Burgos)","UNIVERSIDAD ISABEL I, zona sin rehabilitar (Antiguo Seminario de Burgos)","C/ Fernán González, 72, Burgos",gestión privada,sí.,sí.,sí.,"42º 20´ 30´´ N, 3º 42´ 36´´ W",edificio institucional,medio.
+,"UNIVERSIDAD ISABEL I, unrenovated area (Old Seminary of Burgos)","ISABEL I UNIVERSITY, unrenovated area (Old Seminary of Burgos)","Fernán Gonzale 72 street, Burgos",private management,yes.,yes.,yes.,"42º 20´ 30´´ N, 3º 42´ 36´´ W",institutional building,medium.
+,Orbaneja del Castillo,(Fotografías cedidas por Miguel Salazar - Alma Prod.),"Carretera BU-643, km 7",Gestión pública,sí.,sí.,sí.,"42º 50´ 03´´ N, 3º 47´ 37´´ W",medio rural,muy bueno.
+,Orbaneja del Castillo,ORBANEJA DEL CASTILLO,"BU-643 Road, km 7",Municapility management,yes.,no.,yes.,"42º 50´ 03´´ N, 3º 47´ 37´´ W",rural enviroment,very good.
+,San Pantelón de Losa,ERMITA DE SAN PANTALEÓN DE LOSA,"Carretera BU-V-550, km 15",Gestión pública.,no.,sí.,sí.,"42º 56´ 04´´ N, 3º 17´ 28´´ W",edificio histórico.,muy bueno.
+,San Pantaleón de Losa,HERMITAGE OF SAN PANTALEÓN DE LOSA,"Road BU-V-550, km 15",public management,no.,yes.,yes.,"42º 56´ 04´´ N, 3º 17´ 28´´ W",historical boulding.,very good.
+,Paseo del Espolón,PASEO DEL ESPOLÓN,"Paseo del Espolón s/n, Burgos",gestión municipal,sí.,sí.,sí.,"42º 20´ 25´´ N, 3º 42´ 05´´ W",parques,muy bueno.
+,Espolón Promenade,ESPOLÓN PROMENADE,"Paseo del Espolón s/n, Burgos",municipality management,yes.,yes.,yes.,"42º 20´ 25´´ N, 3º 42´ 05´´ W",park,very good.
+,El Pozo Azul,POZO AZUL,"Carretera Nacional N-629, km 49 Covanera",gestión pública,sí.,no.,sí.,"42º 44´ 09´´ N, 3º 47´ 45´´ W",laguna,muy bueno.
+,Pozo Azul - Blue Well,POZO AZUL - BLUE WELL,"N-629 Road, km 49 Covanera",public management,yes.,no.,yes.,"42º 44´ 09´´ N, 3º 47´ 45´´ W",lagoon,very good.
+,Palacio de la Cultura de Salas de los Infantes,PALACIO DE LA CULTURA DE SALAS DE LOS INFANTES,"Avenida de los Infantes de Lara 13, Salas de los Infantes",Gestión municipal,sí.,sí.,sí.,"42º 01´ 19´´ N, 3º 17´ 09´´ W",edificio institucional.,bueno.
+,Palace of culture of Salas de los Infantes,PALACE OF CULTURE OF SALAS DE LOS INFANTES,"Infantes de Lara Avenue, Salas de los Infantes",municipallity management.,yes.,yes.,yes.,"42º 01´ 19´´ N, 3º 17´ 09´´ W",institutional building,good.
+,Centro de Arte Caja de Burgos - CAB,CENTRO DE ARTE MODERNO DE CAJA BURGOS - CAB,"C/ Saldaña 8, Burgos",gestión privada,sí.,sí.,sí.,"42º 20´ 32´´ N, 3º 42´ 17´´ W",museo,muy bueno.
+,Caja Burgos Modern Arte Center - CAB,CAJA BURGOS MODERN ART CENTER - CAB,"Saldaña street 8, Burgos",private management,yes.,yes.,yes.,"42º 20´ 32´´ N, 3º 42´ 17´´ W",museum,very good.
+,Palacio de Saldañuela,PALACIO DE SALDAÑUELA,"Carretera N-234, km 481",gestión privada,sí.,sí.,sí.,"42º 15´ 09´´ N, 3º 41´ 11´´ W",edificio histórico,muy bueno.
+,Saldañuela Palace,SALDAÑUELA PALACE,"Road N-234, km 481",private management,yes.,yes.,yes.,"42º 15´ 09´´ N, 3º 41´ 11´´ W",historical building,very good.
+,Bodega subterránea de Caleruega,BODEGA SUBTERRÁNEA DE CALERUEGA,"Carretera Bu-922, km 4,5",gestión municipal,no,no.,"en el exterior sí, pero no en el interior.","41º 48´ 36´´ N, 3º 26´ 57´´ W",bodega,bueno.
+,Caleruega Underground Cellar,,"BU-922 Road, km 4, Caleruega",municipallity management,yes.,no.,"on the outside, yes, but not on the inside.","41º 48´ 36´´ N, 3º 26´ 57´´ W",celler,good.
+,Humedales de Villalba de Duero,HUMEDALES DE VILLALBA DE DUERO,Villalba de Duero (Camino de El Carrascal),Gestión pública,sí.,no.,sí.,"41º 40´ 37´´ N, 3º 46´ 02´´ W",lagunas,muy bueno.
+,Wetlands of Villalba de Duero,WETLANDS OF VILLALBA DE DUERO,,Public management,yes.,no.,yes.,Villalba de Duero (Road El Carrascal),lagoon,very good.
+,Finca Malayerba,FINCA MALAYERBA,"Ctra. Bu-922, km 3, Caleruega",gestión privada,sí.,no.,sí.,"41º 48´ 60´´ N, 3º 27´ 29´´ W",campos de cultivo,muy bueno.
+,Malayerba farm,MALAYERBA FARM,"BU-922 Road, km 3",private - management,yes.,no.,yes.,"41º 48´ 60´´ N, 3º 27´ 29´´ W",crop field,very good.
+,Aparcamiento subterráneo del Complejo de la Evolución,APARCAMIENTO SUBTERRÁNEO DEL COMPLEJO DE LA EVOLUCIÓN HUMANA,"Paseo Sierra de Atapuerca S/N, Burgos",gestión pública,sí.,sí.,media.,"42º 20´ 21´´ N, 3º 41´ 53´´ W",equipamientos,muy bueno
+,Subway parking lot of the Human Evolution Complex,SUBWAY PARKING OF THE HUMAN EVOLUTION COMPLEX,Atapuerca Promenade s/n Burgos,public,yes,yes,medium,"42º 20´ 21´´ N, 3º 41´ 53´´ W",facilities,very good
+,Real Círculo de la Unión (Casino de Burgos),REAL CÍRCULO DE LA UNIÓN (CASINO DE BURGOS),"Paseo del Espolón 26, Burgos",gestión privada,sí.,sí.,sí.,"42º 20´ 27´´ N, 3º 42´ 06´´ W",civil,Muy bueno.
+,Real Círculo de la Unión (Burgos Casino),REAL CÍRCULO DE LA UNIÓN (BURGOS CASINO),"Espolón Promenade 26, Burgos",private management,yes.,yes.,yes.,"42º 20´ 27´´ N, 3º 42´ 06´´ W",civil,very good.
+,La Yecla,DESFILADERO DE LA YECLA,"Carretera BU-910, km 40; Santo Domingo de Silos",gestión pública,sí.,no.,"en la zona más interior, no. En los accesos, sí.","41º 56´ 53´´ N, 3º 26´ 34´´ W",río,"bueno, pero por precaución, es necesario trabajar con casco"
+,La Yecla,LA YECLA CANYON,"Carretera BU-910, km 40; Santo Domingo de Silos",public management,yes,no.,"in the innermost area, no. At the entrances, yes.","41º 56´ 53´´ N, 3º 26´ 34´´ W",river,"good, but as a precaution, it is necessary to work with a helmet."
+,Monasterio de La Vid,,"Camino Real 3, La Vid",gestión por parte de la Orden de Agustinos,sí.,sí.,sí.,"41º 37´ 45´´ N, 3º 29´ 17´´ W",templo religioso,muy bueno
+,La Vid Monastery,LA VID MONASTERY,"Camino Real 3, La Vid",management by the Augustinian Order,yes,yes.,yes,"41º 37´ 45´´ N, 3º 29´ 17´´ W",religious temple,very good
+,Bar Figa Ta Tía,BAR FIGA TA TÍA,"C/ Llana de Adentro 5, Burgos",privada,sí.,sí.,sí.,"42º 20´ 30´´ N, 3º 42´ 12´´ W",Bar - Restaurante,muy bueno
+,Figa Ta Tía Bar,FIGA TA TÍA BAR,"C/ Llana de Adentro 5, Burgos",private management,yes,yes,yes,"42º 20´ 30´´ N, 3º 42´ 12´´ W",Bar - Restaurante,very good
+,La Casa de Enmedio,LA CASA DE ENMEDIO,"C/ Mayor 8, San Vicente del Valle",privada,sí.,sí.,sí.,"42º 20´ 15´´ N, 3º 09´ 44´´ W",hotel rural,muy bueno
+,Enmedio´s house,,"C/ Mayor 8, San Vicente del Valle",private management,yes,yes,yes,"42º 20´ 15´´ N, 3º 09´ 44´´ W",rural hotel,very good
+,Granja Escuela Arlanzón,GRANJA ESCUELA ARLANZÓN,"Camino de los Molinos s/n, Arlanzón",privada,sí.,sí.,sí.,"42º 19´ 09´´ N, 3º 28´ 12´´ W",hotel rural,muy bueno
+,Arlanzón Farm Schoool,ARLANZÓN FARM SCHOOL,"Camino de los Molinos s/n, Arlanzón",private management,yes,yes,yes,"42º 19´ 09´´ N, 3º 28´ 12´´ W",rural hotel,very good
+,La Yecla,LA YECLA,"Road BU-910, km 40; Santo Domingo de Silos",public management,yes.,no.,"in the innermost area, no. At the entrances, yes.","41º 56´ 53´´ N, 3º 26´ 34´´ W",river,"good, but as a precaution, it is necessary to work with a helmet."
+,Hospital Divino Vallés,HOSPITAL DIVINO VALLÉS,"Avenida Islas Baleares 1, Burgos",gestión pública,sí .,sí.,sí.,"42º 21´ 37´´ N, 3º 41´ 30´´ W",hospital,muy bueno.
+,Hospital Divino Vallés,HOSPITAL DIVINO VALLÉS,"Avenida Islas Baleares 1, Burgos",public management,yes,yes,yes,"42º 21´ 37´´ N, 3º 41´ 30´´ W",hospital,muy bueno.
+,Cafetería Villa de Almanzor,CAFETERÍA VILLA DE ALMANZAR,"C/ Pablo Cassals 25, Burgos",gestión privada,sí.,sí.,sí.,"42º 21´ 14´´ N, 3º 39´ 49´´ W",Bar,muy bueno.
+,Villa de Almanzor Café,VILLA DE ALMANZAR CAFÉ,"C/ Pablo Cassals 25, Burgos",private management,yes.,yes,yes.,"42º 21´ 14´´ N, 3º 39´ 49´´ W",Bar,very good
+,Iglesia de Fuenteodra,IGLESIA DE FUENTEODRA,"C/ La Iglesia, Fuenteodra",gestión privada,sí.,sí.,sí.,"42º 40´ 47´´ N, 4º 06´ 31´´ W",Iglesia,bueno.
+,Fuenteodra church,FUENTEODRA CHURCH,"C/ La Iglesia, Fuenteodra",private management,yes,yes,yes,"42º 40´ 47´´ N, 4º 06´ 31´´ W",Church,good
+,CAREX - Centro Arqueología Experimental,CAREX,Camino de Fresno de Rodilla s/n Atapuerca,gestión publica,sí.,sí.,sí.,"42º 22´ 45´´ N, 3º 29´ 55´´ W",Edificio institucional,muy bueno.
+,La Yecla,LA YECLA,"Road BU-910, km 40; Santo Domingo de Silos",public management,yes.,no.,"in the innermost area, no. At the entrances, yes.","41º 56´ 53´´ N, 3º 26´ 34´´ W",river,"good, but as a precaution, it is necessary to work with a helmet."
+,Cementerio de Burgos,CEMENTERIO MUNICIPAL DE BURGOS,"Carretera Cementerio de San José, s/n",gestión pública,sí.,sí.,sí.,"42º 21´ 24´´ N, 3º 42´ 14´´ W",cementerio,muy bueno.
+,Burgos cemetery,BURGOS CEMETERY,"Carretera Cementerio de San José, s/n",public management,yes,yes,yes,"42º 21´ 24´´ N, 3º 42´ 14´´ W",cemetery,very good
+,Molino de Montorio,MOLINO DE MONTORIO,"Carretera CL-622, km 26",gestión privada,sí.,sí.,sí.,"42º 33´ 50´´ N, 3º 46´ 31´´ W",molino,muy bueno.
+,Montorio Mill,MONTORIO MILL,"Carretera CL-622, km 26",private management,yes,yes,yes,"42º 33´ 50´´ N, 3º 46´ 31´´ W",mill,very good
+,Ermita de San Antonio,,"C/ Rodríguez Valcárcel, Pradoluengo",gestión privada,sí.,sí.,sí.,"42º 19´ 00´´ N, 3º 11´ 03´´ W",ermita,muy bueno.
+,San Antonio Hermitage,SAN ANTONIO HERMITAGE,"C/ Rodríguez Valcárcel, Pradoluengo",private management,yes,yes.,yes.,"42º 19´ 00´´ N, 3º 11´ 03´´ W",hermitage,very good.
+,Botería de Covarrubias,MOLINO DE MONTORIO,"C/ Tenerías Bajas 29, Covarrubias",gestión privada,sí.,sí.,sí.,"42º 03´ 25´´ N, 3º 31´ 25´´ W",industria,bueno.
+,Covarrubias wine boot workshop,COVARRUBIAS WINE BOOT WORKSHOP,"C/ Tenerías Bajas 29, Covarrubias",private management,yes,yes.,yes,"42º 03´ 25´´ N, 3º 31´ 25´´ W",factory,good
+,Prueba,,"C/ Tenerías Bajas 29, Covarrubias",gestión privada,sí.,sí.,sí.,"42º 03´ 25´´ N, 3º 31´ 25´´ W",industria,bueno.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,gestión pública,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,La Yecla,LA YECLA,"Road BU-910, km 40; Santo Domingo de Silos",public management,yes.,no.,"in the innermost area, no. At the entrances, yes.","41º 56´ 53´´ N, 3º 26´ 34´´ W",river,"good, but as a precaution, it is necessary to work with a helmet."
+,Plaza San Antón - Patio interior,PLAZA DE SAN ANTÓN - PATIO INTERIOR,Carretera BU-711,gestión privada,sí .,sí.,sí.,"42º 21´ 18´´ N, 3º 40´ 05´´ W",calles y plazas,medio.
+,San Antón Square - Inner courtyard,SAN ANTÓN SQUARE - INNER COURTYARD,Carretera BU-711,private management,yes,yes,yes,"42º 21´ 18´´ N, 3º 40´ 05´´ W",calles y plazas,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,gestión pública,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
+,Castil de Carrias,CASTIL DE CARRIAS,Carretera BU-711,public management,no.,no.,sí.,"42º 28´ 05´´ N, 3º 16´ 11´´ W",pueblo abandonado,medio.
